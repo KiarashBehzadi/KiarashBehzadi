@@ -9,7 +9,7 @@ Passionate about learning cloud technologies, distributed systems, and modern ba
 
 ## Technical Skills
 
-Languages: Java
+Languages & Tools: Java, Maven, git, Postman
 
   Backend: Spring Framework(Spring boot, Spring Data JPA, Spring Security, Hibernate, REST APIs
   
@@ -17,8 +17,22 @@ Languages: Java
   
   DevOps: Docker, CI/CD
 
-## Contact
-Email: Kiarashbehzadi79@gmail.com
+## Contact with me
 
-LinkedIn: www.linkedin.com/in/kiarash-behzadi
+<p>
+<a href="mailto:Kiarashbehzadi79@gmail.com">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kiarash-behzadi](https://www.linkedin.com/in/kiarash-behzadi-495171217?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40"/>
+</a>
+
+<a href="[https://stackoverflow.com/users/YOUR_ID](https://stackoverflow.com/users/23199356/kiarash-behzadi)">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackoverflow.svg" width="40"/>
+</a>
+</p>
+
+
+
 
