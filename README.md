@@ -5,6 +5,7 @@
 ## Technical Skills
 
 Languages: Java
+
   Backend: Spring Framework(Spring boot, Spring Data JPA, Spring Security, Hibernate, REST APIs
   
   Database: SQL(PostgreSQL)
