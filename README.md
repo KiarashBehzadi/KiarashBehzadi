@@ -2,6 +2,11 @@
 
 ## About Me
 
+Back-End Java Developer with a strong foundation in Java, Spring Boot, databases, and software design principles.
+Experienced in building backend projects and developing clean, maintainable code.
+Passionate about learning cloud technologies, distributed systems, and modern backend architectures.
+
+
 ## Technical Skills
 
 Languages: Java
