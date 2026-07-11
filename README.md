@@ -24,11 +24,11 @@ Languages & Tools: Java, Maven, git, Postman
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40"/>
 </a>
 
-<a href="https://www.linkedin.com/in/kiarash-behzadi](https://www.linkedin.com/in/kiarash-behzadi-495171217?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<a href="https://www.linkedin.com/in/kiarash-behzadi-495171217">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40"/>
 </a>
 
-<a href="[https://stackoverflow.com/users/YOUR_ID](https://stackoverflow.com/users/23199356/kiarash-behzadi)">
+<a href="https://stackoverflow.com/users/23199356/kiarash-behzadi">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackoverflow.svg" width="40"/>
 </a>
 </p>
